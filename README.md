@@ -1,0 +1,7 @@
+# Customer-Supplier-Demand-App
+The web application aims at bringing the customers and the shopkeeper at the same Page.  The seller needs to feed the stock data and the buyer his requirements on this portal. This data is then uploaded to the database from which a network is created between different buyers and sellers. 
+# Basic-Necessities
+## Abstract
+We have observed that there has been a shortage of supplies in most of the countries during the pandemic. People are unable to get hold of basic necessities like food and water. Treading out of the house to stack up necessities also imposes the threat of getting infected by the virus. In order to solve numerous problems like these we have come up with a solution that lets the customer and the vendor associate and carry out their transaction. The vendor updates the information of the stocks he has to his name and the customer updates his requirements. After this gets uploaded to the database a network is created between the vendor and the customer.
+## Aim
+The intention of creating this solution is that even the small shop owners can carry out their business as usual and don't get affected by the pandemic. Moreover, this also solves the problem of the customers not being entitled to basic necessities. This also serves as a solution to get hold of your requirements without the threat if getting infected by the deadly virus. This application lets the public carry out their usual transactions without breaching the government issued norms.
